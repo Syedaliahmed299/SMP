@@ -1,3 +1,15 @@
+//Name :Syed Ali Ahmed                          department: FBAS/BSSE/F-21
+//Roll No :4308                                 university:International Islamic University Islamabad
+
+//Our programme does the following functions :
+//Save the students records
+//Amend the student records
+//Search the student records
+//Delete the student records
+//Display all the students' records
+//By using object - oriented programming approach, we assure the security of data.
+
+
 #include <iostream>
 using namespace std;
 struct myDate {
